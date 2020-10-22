@@ -19,6 +19,8 @@ My name is Ellie, my pronouns are she/her, I am from Czech Republic. I am an App
 
 I have been programming in Python for around three years now as a hobby. However, I know the basics of Scheme, Common Lisp, C, and C# - mostly because of school, to be quite honest. I also started learning Java, which I am enjoying way too much, in September 2020 in order to create a Gothic Dame game in it as a school project. Since I am starting to favour Java over Python, it is my soon-to-be go-to language.
 
-You can contact me through my <a href="https://saurich.com/contact-me/">contact form</a> or my <a href="https://www.linkedin.com/in/eliska-faltynkova/">LinkedIn profile</a>
+You can contact me through my <a href="https://saurich.com/contact-me/">contact form</a> or my <a href="https://www.linkedin.com/in/eliska-faltynkova/">LinkedIn profile</a>.
 
 ![elijabesu's github stats](https://github-readme-stats.vercel.app/api?username=elijabesu&show_icons=true&theme=buefy&hide=contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijabesu&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
