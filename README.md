@@ -19,4 +19,4 @@ My name is Ellie, my pronouns are she/they, and I am from Czech Republic. I am a
 
 You can contact me through my <a href="https://saurich.com/contact-me/">contact form</a>.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijabesu&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijabesu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
