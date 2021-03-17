@@ -1,4 +1,28 @@
-# Hi there 👋
+```java
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class Elijabesu {
+
+    private final String name = "Emerson";
+    private final String pronouns = "they/she";
+    private int age = 24;
+    private String occupation = "Senior IT Support Specialist";
+    
+    private List<String> confidentIn = new ArrayList<>(Arrays.asList("Python 3", "Java"));
+    private List<String> knowsBasicsOf = new ArrayList<>(Arrays.asList("Scheme", "Common Lisp", "C", "C#"));
+    private List<String> currentlyLearning = new ArrayList<>(Arrays.asList("Kotlin"));
+    private List<String> plansToLearn = new ArrayList<>(Arrays.asList("Swift", "C#", "MS SQL"));
+    
+    private List<String> currentProjects = new ArrayList<>(Arrays.asList("Gothic Checkers", "SauriCogs"));
+    
+    private final List<String> favouriteColours = new ArrayList<>(Arrays.asList("#000000", "#FFA0BA", "#FFFFFF"));
+    private List<String> hobbies = new ArrayList<>(Arrays.asList("music", "video games", "writing", "reading"));
+    }
+}
+
+```
 
 <!--
 **elijabesu/elijabesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +38,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-My name is Ellie, my pronouns are she/they, and I am from Czech Republic. I am an Applied Computer Science student and a full time IT Support, looking forward to starting a backend dev career as soon as I possibly can. I've been programming in Python 3 for around 4 years now, as it is my main language. However, I know the basics of Scheme, Common Lisp, C, and C#. I also started properly learning Java in September 2020 for a school project.
-
-You can contact me through my <a href="https://saurich.com/contact-me/">contact form</a>.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijabesu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
