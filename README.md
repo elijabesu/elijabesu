@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Elijabesu {
 
-    private final String name = "Emerson";
+    private final String name = "Emerald";
     private final String pronouns = "they/she";
     private int age = 24;
     private String occupation = "Senior IT Support Specialist";
