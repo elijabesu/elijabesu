@@ -5,15 +5,15 @@ import java.util.List;
 
 public class Elijabesu {
 
-    private final String name = "Emerald";
-    private final String pronouns = "they/she";
+    private final String name = "Eden";
+    private final String pronouns = "they/he/she";
     private int age = 24;
     private String occupation = "Senior IT Support Specialist";
     
     private List<String> confidentIn = new ArrayList<>(Arrays.asList("Python 3", "Java"));
     private List<String> knowsBasicsOf = new ArrayList<>(Arrays.asList("Scheme", "Common Lisp", "C", "C#"));
-    private List<String> currentlyLearning = new ArrayList<>(Arrays.asList("Kotlin"));
-    private List<String> plansToLearn = new ArrayList<>(Arrays.asList("Swift", "C#", "MS SQL"));
+    private List<String> currentlyLearning = new ArrayList<>(Arrays.asList("MS SQL"));
+    private List<String> plansToLearn = new ArrayList<>(Arrays.asList("Swift", "Kotlin"));
     
     private List<String> currentProjects = new ArrayList<>(Arrays.asList("Gothic Checkers", "SauriCogs"));
     
