@@ -12,8 +12,6 @@
     <img src="https://media.giphy.com/media/KiXiO1iR3fFhC/giphy-downsized.gif" width="500" />
 </div>
 
----
-
 ## 🧑‍💻 About me
 - 🔭 I’m working as a QA Automation Engineer since November 2021.
 - 🌱 I’m currently learning front-end technologies, such as JavaScript, HTML and CSS, and React.
@@ -23,8 +21,6 @@
 
 ### 🎶 Now playing
 [![Spotify](https://spotify-now-playing-elijabesu.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-
----
 
 ## 🛠️ Languages and tools
 <div>
