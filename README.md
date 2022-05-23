@@ -45,7 +45,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijabesu&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijabesu&layout=compact&langs_count=6&theme=github_dark)
 
 
 <!--
