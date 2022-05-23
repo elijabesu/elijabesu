@@ -1,11 +1,11 @@
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/41390133?v=4" width="100"/>
+    <img src="https://github.com/elijabesu/elijabesu/blob/main/ReadMe-avatar.PNG" width="150"/>
     <br>
-    <a href="https://www.linkedin.com/in/eliska-faltynkova/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
     <a href="https://saurich.com/">
         <img src="https://img.shields.io/badge/blog-ffa0ba?style=for-the-badge&logo=wordpress&logoColor=black" alt="WordPress Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/eliska-faltynkova/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <br>
     <h1>Hi there 👋</h1>
