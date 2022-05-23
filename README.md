@@ -1,6 +1,5 @@
-<div id="header" align="center">
-    <h1>Hi there 👋</h1>
-<img src="https://avatars.githubusercontent.com/u/41390133?v=4" width="100"/>
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/41390133?v=4" width="100"/>
     <br>
     <a href="https://www.linkedin.com/in/eliska-faltynkova/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,9 +8,11 @@
         <img src="https://img.shields.io/badge/blog-ffa0ba?style=for-the-badge&logo=wordpress&logoColor=black" alt="WordPress Badge"/>
     </a>
     <br>
-    <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif">
+    <h1>Hi there 👋</h1>
+    <img src="https://media.giphy.com/media/KiXiO1iR3fFhC/giphy-downsized.gif" width="500" />
 </div>
 
+---
 
 ### 🧑‍💻 About me
 - 🔭 I’m working as a QA Automation Engineer since November 2021.
@@ -20,6 +21,7 @@
 - 💬 Ask me about my hobbies as I've tried so many and keep learning new ones. E.g. bookbinding, jewelry making, video editing, ...
 - 😄 Pronouns: any and all. Whatever flows your way, I don't mind any.
 
+---
 
 ### 🛠️ Languages and tools
 <div>
