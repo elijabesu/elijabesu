@@ -20,7 +20,7 @@
 - 😄 Pronouns: any and all. Whatever flows your way, I don't mind any.
 
 ### 🎶 Now playing
-[![Spotify](https://spotify-now-playing-elijabesu.vercel.app/api/spotify)](https://open.spotify.com/user/saurichable)
+![Spotify](https://spotify-now-playing-elijabesu.vercel.app/api/spotify)
 
 ## 🛠️ Languages and tools
 <div>
