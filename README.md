@@ -4,6 +4,9 @@
     <a href="https://saurich.com/">
         <img src="https://img.shields.io/badge/blog-ffa0ba?style=for-the-badge&logo=wordpress&logoColor=black" alt="WordPress Badge"/>
     </a>
+    <a href="https://elijabesu.github.io/">
+        <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
     <a href="https://www.linkedin.com/in/eliska-faltynkova/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
