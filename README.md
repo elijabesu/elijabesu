@@ -16,10 +16,9 @@
 </div>
 
 ## 🧑‍💻 About me
-- 🔭 I’m working as a QA Automation Engineer since November 2021.
-- 🌱 I’m currently learning front-end technologies, such as JavaScript, HTML and CSS, and React.
-- 🤔 I’m looking for help with Java Swing, it's a struggle to learn on my own.
-- 💬 Ask me about my hobbies as I've tried so many and keep learning new ones. E.g. bookbinding, jewelry making, video editing, ...
+- 🔭 I am a self-employed QA Automation Engineer since November 2021.
+- 🌱 I’m currently learning front-end technologies, as well as Android app development.
+- 💬 Ask me about my hobbies as I've tried so many and love dipping into new ones.
 - 😄 Pronouns: any and all. Whatever flows your way, I don't mind any.
 
 ### 🎶 Now playing
